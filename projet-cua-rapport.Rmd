@@ -39,7 +39,7 @@ get_session_key()
 # data
 
 responses <- get_responses(params$cua, sResponseType = "short")  
-peers <- responses
+d <- responses
 
 #log out
 release_session_key()
@@ -67,6 +67,7 @@ description de la méthode de traitement.
 <!-- tu peux faire ton clean data dans le chunk ci-dessous. -->
 
 ```{r clean}
+# le travail se fait à partir de d
 
 ```
 
