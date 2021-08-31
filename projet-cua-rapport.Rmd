@@ -1,7 +1,7 @@
 ---
-title: "Présentation des données - Rapport court intermédiaire"
-subtitle: "ERIE - An 2"
-author: "Nicolas Bressoud"
+title: "Projet CUA 2021-2022"
+subtitle: "Rapport préliminaire"
+author: "Lionel Alvarez, Nicolas Bressoud, Philippe Gay"
 date: "`r format(Sys.time(), '%d.%m.%Y')`"
 toc-title: "Table des matières"
 output:
